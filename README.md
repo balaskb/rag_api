@@ -5,14 +5,14 @@ To Execute TamilNadu Tourism Bot. Please follow below steps,
 
 1. Install below libraries.
 
-pip install openai
-pip install langchain
-pip install -qU langchain_community faiss-cpu
-pip install langchain_experimental
-pip install "langchain[docarray]"
-pip install tiktoken
-pip install langchain-openai
-pip install langchain-text-splitters
+pip install openai,
+pip install langchain,
+pip install -qU langchain_community faiss-cpu,
+pip install langchain_experimental,
+pip install "langchain[docarray]",
+pip install tiktoken,
+pip install langchain-openai,
+pip install langchain-text-splitters,
 pip install Flask
 
 2. After librairy installation run the application by command Flask Run
